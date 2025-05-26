@@ -19,3 +19,5 @@ All files are contained as an R project.
     This image contains objects with the raw data and the rarefied data. Tables are contained as phyloseq type objects. Each phyloseq object is composed of: ASV abundance tables, taxonomy tables, and experimental information.
 
 -   Various figures
+
+`<a href="https://creativecommons.org"`{=html}Analysis DR data</a> © 2025 by `<a href="https://creativecommons.org"`{=html}Juan F. Dueñas</a> is licensed under `<a href="https://creativecommons.org/licenses/by/4.0/"`{=html}CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"/>
