@@ -1,12 +1,16 @@
 # GCEF_ufz_agrillig
 
-These are files associated with the molecular measurements of the dry re-wet experiment of AG Rillig in 2024. This is a collaboration between the global change experimental facility (GCEF) manage by UFZ in Bad Lauchstädt (near Halle) and post-docs associated to the AG Rillig at FU Berlin.
+These are files associated with the analysis of amplicon sequencing of a dry re-wet experiment performed in early 2024.
 
-All files are contained as an R project.
+Data was collected as part of a collaboration between the global change experimental facility (GCEF) managed by UFZ in Bad Lauchstädt (Saxony-Anhalt - DE) and post-docs associated to the AG Rillig at Freie Universität Berlin.
 
 ## Contents
 
 -   R script -\> *analysis_script.r*
+
+-   Various figures
+
+## Data (not available in this repo due to embargo)
 
 -   qPCR data -\> *bf1.csv*
 
@@ -17,7 +21,5 @@ All files are contained as an R project.
 -   Illumina sequencing data for ITS (Fungi). -\> *DR_fun_raw_rar.RData*
 
     This image contains objects with the raw data and the rarefied data. Tables are contained as phyloseq type objects. Each phyloseq object is composed of: ASV abundance tables, taxonomy tables, and experimental information.
-
--   Various figures
 
 <a href="https://creativecommons.org">DR project</a> © 2025 by <a href="https://creativecommons.org">Juan F. Dueñas</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"/><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"/>
