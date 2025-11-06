@@ -1,5 +1,9 @@
+# Ignore data files
+data/*.RData
+data/*.csv
+
+# Ignore R history and private info
 *.Rproj.user
 *.Rhistory
 *.Ruserdata
-*.csv
-*.RData
+.Rproj.user
