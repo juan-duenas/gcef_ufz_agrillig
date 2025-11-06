@@ -6,9 +6,9 @@ Data was collected as part of a collaboration between the global change experime
 
 ## Contents
 
--   R script -\> *analysis_script.r*
+-   R script -\> src/*analysis_script.r*
 
--   Various figures
+-   Various figures -\> /reports
 
 ## Data (not available in this repo due to embargo)
 
